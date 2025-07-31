@@ -1,48 +1,39 @@
+# 🦉 Owl Watch – Safe Zone Survival App (Prototype)
+
+**Owl Watch** is a survival-first mobile app prototype designed to assist users in emergency situations through real-time SOS alerts, map-based incident reporting, offline support, and curated survival guidance — all built with a focus on usability, clarity, and urgency.
+
+This project was developed as part of the **Introduction to Software Engineering** course under the supervision of **Miss Maryam Wardah**.
+
+> “When seconds matter, clarity isn’t a luxury — it’s survival.”
 
 ---
 
-## 🚀 Getting Started
+## 📌 Project Objectives
 
-> This repository contains only the design prototype of Owl Watch.
-
-To view the prototype:
-1. Open the Figma link inside `OwlWatch_Figma_Link.txt`
-2. Interact with flows, screens, and UI components
-3. Use this prototype as a design base for app development
+- Design a survival app interface that works **under pressure**
+- Create clean, intuitive flows for emergency scenarios
+- Focus on **offline functionality**, SOS alerts, and location sharing
+- Build a scalable prototype architecture using **Figma**
 
 ---
 
-## 📸 Screenshots
+## 🧩 Key Features (Prototype)
 
-*Coming soon: Add preview images of your key app screens*
-
----
-
-## 🎓 Academic Info
-
-- **Course:** Introduction to Software Engineering  
-- **Instructor:** Miss Maryam Wardah  
-- **Project Type:** Design Prototype  
-- **Semester:** Spring 2025
+- 🔴 SOS Button — Instant emergency alert with location sharing  
+- 🗺️ Map Logging — Report incidents with timestamp and location  
+- 📴 Offline Emergency Mode — Store SOS and auto-send when back online  
+- 📚 Emergency Guidance — Medical, fire, road, workplace & more  
+- 📞 Emergency Contacts — Personal and default helplines  
+- 🧭 Community Assistance — Nearby alerts, “I’m Safe” status, help requests  
+- 👤 Profile Management — Address, blood group, emergency info
 
 ---
 
-## 💡 What I Learned
+## 🛠️ Built With
 
-- Designing with purpose for **real-life emergencies**
-- Structuring panic-friendly UX that requires **minimal thinking** to operate
-- Planning for **offline capabilities** and rapid response design
-- Applying system thinking in a **UI-first project**
+- [Figma](https://www.figma.com/) – Used for UI/UX prototyping and interactive design
 
 ---
 
-## 📬 Contact
-
-**Abdul Wahid**  
-[LinkedIn Profile](https://linkedin.com/) *(replace with your link)*  
-[Email](mailto:your.email@example.com)
-
----
-
-> _“This isn’t just a UI — it’s a user journey through chaos, designed to stay steady when everything else isn’t.”_
+## 📂 Folder Structure
 
