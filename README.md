@@ -35,5 +35,3 @@ This project was developed as part of the **Introduction to Software Engineering
 
 ---
 
-## 📂 Folder Structure
-
